@@ -1,0 +1,2 @@
+support.mozilla.org
+detectportal.firefox.com
