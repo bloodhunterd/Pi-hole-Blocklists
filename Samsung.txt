@@ -1,3 +1,4 @@
+samsungads.com
 samsungrm.net
 samsungotn.net
 samsungacr.com
@@ -9,4 +10,3 @@ samsungcloudsolution.com
 samsungcloudsolution.net
 device-metrics-us.amazon.com
 pavv.co.kr
-log-ingestion-eu.samsungacr.com
