@@ -1,14 +1,5 @@
-(^|\.)samsungacr\.com$
-(^|\.)samsungadhub\.com$
-(^|\.)samsungads\.com$
-(^|\.)samsungcloudsolution\.com$
-(^|\.)samsungcloudsolution\.net$
-(^|\.)samsungelectronics\.com$
-(^|\.)samsungosp\.com$
-(^|\.)samsungotn\.net$
-(^|\.)samsungqbe\.com$
-(^|\.)samsungrm\.net$
-# Misc
-(^|\.)inernetat\.tv$
-(^|\.)allshareplay\.com$
-(^|\.)pavv\.co\.kr$
+acr0.samsungcloudsolution.com
+lcprd1.samsungcloudsolution.net
+xpu.samsungelectronics.com
+upu.samsungelectronics.com
+log-ingestion-eu.samsungacr.com
