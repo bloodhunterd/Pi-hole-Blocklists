@@ -1,0 +1,2 @@
+lb-lt-rdv-storm.ubisoft.com
+public-ws-ubiservices.ubi.com

@@ -28,3 +28,7 @@ data.sec.miui.com
 data.mistat.intl.xiaomi.com
 app.chat.global.xiaomi.net
 connect.rom.miui.com
+au.ff.avast.sec.miui.com
+fr.app.chat.global.xiaomi.net
+resolver.msg.global.xiaomi.net
+us.api.micloud.xiaomi.net

@@ -1,1 +1,8 @@
-go.microsoft.com
+cp501-prod.do.dsp.mp.microsoft.com
+dmd.metaservices.microsoft.com
+g.bing.com
+livetileedge.dsx.mp.microsoft.com
+pti.store.microsoft.com
+ris.api.iris.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+kv501-prod.do.dsp.mp.microsoft.com
