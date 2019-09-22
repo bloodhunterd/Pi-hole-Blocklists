@@ -1,1 +1,2 @@
 device-metrics-us.amazon.com
+twitch.amazon.com

@@ -1,0 +1,7 @@
+account-de.huami.com
+api-analytics-de.huami.com
+api-mifit-de.huami.com
+api-mifit.huami.com
+api-user-de.huami.com
+api-watch-de.huami.com
+app-analytics-de.huami.com
