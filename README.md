@@ -2,11 +2,11 @@
 
 # DNS-Block-Lists
 
-Lists of domains to be blocked by Pi-hole.
+Lists of domains to be blocked by [Pi-hole](https://github.com/pi-hole/pi-hole).
 
 ## Deployment
 
-Just copy the raw URL of the domain list and add it to your Pi-hole.
+Just copy the raw URL of the domain list and add it to your [Pi-hole](https://github.com/pi-hole/pi-hole).
 
 ## Authors
 
