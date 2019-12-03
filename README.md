@@ -2,4 +2,16 @@
 
 # DNS-Block-Lists
 
-Pi-hole DNS Block Lists
+Lists of domains to be blocked by [Pi-hole](https://github.com/pi-hole/pi-hole).
+
+## Deployment
+
+Just copy the raw URL of the domain list and add it to your [Pi-hole](https://github.com/pi-hole/pi-hole).
+
+## Authors
+
+* [BloodhunterD](https://github.com/bloodhunterd)
+
+## License
+
+This project is licensed under the Unlicense License - see [LICENSE.md](https://github.com/bloodhunterd/pi-hole-blocklists/blob/master/LICENSE) file for details.
