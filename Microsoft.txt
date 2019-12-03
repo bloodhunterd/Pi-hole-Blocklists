@@ -9,3 +9,6 @@ evoke-windowsservices-tas.msedge.net
 # Geräteauthentifizierung
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
+checkappexec.microsoft.com
+# SmartScreen
+checkappexec.microsoft.com
