@@ -1,0 +1,5 @@
+checkip.synology.com
+checkipv6.synology.com
+myds.synology.com
+payment.synology.com
+sns.synology.com

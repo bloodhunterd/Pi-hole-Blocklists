@@ -12,3 +12,10 @@ dmd.metaservices.microsoft.com.akadns.net
 checkappexec.microsoft.com
 # SmartScreen
 checkappexec.microsoft.com
+# Various
+client.wns.windows.com
+go.microsoft.com
+odc.officeapps.live.com
+officeclient.microsoft.com
+roaming.officeapps.live.com
+v10.events.data.microsoft.com
