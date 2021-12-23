@@ -1,7 +1,6 @@
 a.stat.xiaomi.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
-account.jetbrains.com
 account.preview.n.xiaomi.net
 account.xiaomi.com
 ad.mi.com
