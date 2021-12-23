@@ -1,21 +1,33 @@
-# Microsoft Store
-pti.store.microsoft.com
-# Spotlight-Metadaten
-ris.api.iris.microsoft.com
-# Inhaltsregulierung
-tsfe.trafficshaping.dsp.mp.microsoft.com
-# Fotos-App
-evoke-windowsservices-tas.msedge.net
-# Geräteauthentifizierung
+
+checkappexec.microsoft.com
+client.wns.windows.com
+clientfd.family.microsoft.com
+connectivity-check.ubuntu.com.mshome.net
+cp501.prod.do.dsp.mp.microsoft.com
+cxcs.microsoft.net
+dl.delivery.mp.microsoft.com
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
-checkappexec.microsoft.com
-# SmartScreen
-checkappexec.microsoft.com
-# Various
-client.wns.windows.com
+dns.msftncsi.com
+edge-safety-service.trafficmanager.net
+emdl.ws.microsoft.com
+evoke-windowsservices-tas.msedge.net
+geo.prod.do.dsp.mp.microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
 go.microsoft.com
+graph.microsoft.com
+kv501.prod.do.dsp.mp.microsoft.com
+livetileedge.dsx.mp.microsoft.com
+login.live.com
+login.microsoftonline.com
 odc.officeapps.live.com
 officeclient.microsoft.com
+prod.rewardsplatform.microsoft.com
+pti.store.microsoft.com
+ris.api.iris.microsoft.com
 roaming.officeapps.live.com
+tlu.dl.delivery.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 v10.events.data.microsoft.com
+www.msftconnecttest.com
+x.urs.microsoft.com
