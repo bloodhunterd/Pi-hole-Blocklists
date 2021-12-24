@@ -1,0 +1,4 @@
+ads-serve.brave.com
+mainnet-infura.brave.com
+min-api.cryptocompare.com
+variations.brave.com

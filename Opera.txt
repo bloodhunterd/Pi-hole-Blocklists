@@ -1,1 +1,7 @@
+am4.lb.opera.technology
+am4-features.opera-api.com
 autoupdate.geo.opera.com
+exchange.opera.com
+prod.opera.map.fastly.net
+sd-images.operacdn.com.edgekey.net
+weather.opera-api.com

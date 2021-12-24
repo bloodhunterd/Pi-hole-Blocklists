@@ -16,6 +16,7 @@ geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 go.microsoft.com
 graph.microsoft.com
+in.appcenter.ms
 kv501.prod.do.dsp.mp.microsoft.com
 livetileedge.dsx.mp.microsoft.com
 login.live.com
@@ -26,8 +27,11 @@ prod.rewardsplatform.microsoft.com
 pti.store.microsoft.com
 ris.api.iris.microsoft.com
 roaming.officeapps.live.com
+sapphire.bingviz.com
+substrate.office.com
 tlu.dl.delivery.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 v10.events.data.microsoft.com
+workgroup.mshome.net
 www.msftconnecttest.com
 x.urs.microsoft.com

@@ -22,6 +22,7 @@ dp-rsm-prod.amazon.com
 eu.api.amazonvideo.com
 firereleasenotes-eu.amazon.com
 ftvr-na.amazon.com
+kraken-measurements.s3-external-1.amazonaws.com
 mas-ext-eu.amazon.com
 messaging-director-us-east-1.amazon.com
 msh.amazon.co.uk
